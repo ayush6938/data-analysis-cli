@@ -1,0 +1,1 @@
+{ "grade_theresholds" : {"A": 90, "B" : 75}, "insight_rules": [[100, "Excellent performance. No action needed."], [90, "Good dataset. Minor improvements possible."], [75, "Average dataset. Needs optimization."], [0, "Poor dataset. Immediate attention required."]], "risk_limits": {"high": 3, "low": 3}}
