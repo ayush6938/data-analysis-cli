@@ -25,9 +25,12 @@ This tool analyzes datasets, assigns grades, detects risk levels, and generates 
 
 ---
 
-▶️ How to Run
+▶️ How to Run Project
 
-python main.py
+Just run python main.py
+When you run main.py, you will get start menu.
+You can select your desired options from options.
+Once you Select, things will start running automatically.
 
 ---
 
