@@ -30,7 +30,6 @@ This tool analyzes datasets, assigns grades, detects risk levels, and generates 
 Just run python main.py
 When you run main.py, you will get start menu.
 You can select your desired options from options.
-Once you Select, things will start running automatically.
 
 ---
 
@@ -83,5 +82,3 @@ Ayush Singh
 ⭐ If you found this useful, consider giving it a star!
 
 Have a lovely day!
-
-Testing Mistake
